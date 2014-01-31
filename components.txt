@@ -1,0 +1,22 @@
+Please edit to suggest components:
+
+Passives (must be smd):  //I'm thinking perhaps a 1/4 watt and then a larger one like 1w?
+
+-Resistors http://www.digikey.com/product-detail/en/RC1206JR-070RL/311-0.0ERCT-ND/732131 // 1/4 watt $0.10
+            http://www.digikey.com/product-detail/en/MCR100JZHJ391/RHM390BCCT-ND/2290341 // 1 watt $0.42
+-Inductors 
+-Capacitors
+-Diodes 
+
+
+
+MSOP: http://www.digikey.com/product-detail/en/MCP6L02T-E%2FMS/MCP6L02T-E%2FMSCT-ND/2060114 // $0.37
+
+TSSOP: http://www.digikey.com/product-detail/en/NCP1402SN50T1G/NCP1402SN50T1GOSCT-ND/1967220 // $0.82 
+
+SOIC: http://www.digikey.com/product-detail/en/RC4558ID/296-33540-5-ND/1573831  // op amp only costs $0.39 
+
+Through hole components: //perhaps something cheap like caps or resistors
+
+A part with a large power pad (can be combined with one of the other listed parts) // I have no idea what this would be
+
